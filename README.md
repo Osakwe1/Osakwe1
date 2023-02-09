@@ -1,5 +1,7 @@
 ### Welcome 🚀
 
+<!-- <h3 align="center">Goal: Analyse and predict future sales of an ecommerce business </h3> -->
+
 I'm Olisa, a Chemical Engineering graduate and aspiring Data Scientist with a passion for creating clever insights, and visualizations 📊. I love solving complex problems and bringing ideas to life through code 💻. With a drive to leverage my coding skills to create meaningful solutions, I am eager to contribute my expertise and enthusiasm to meaningful projects that have a lasting impact 🌱. 
 
 I'm always up for a challenge, so feel free to connect with me on Github to collaborate on a project or offer any info.
