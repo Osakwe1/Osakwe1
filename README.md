@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Osakwe1)
+![](https://komarev.com/ghpvc/?username=Osakwe1&label=VIEWS&style=flat-square&color=5a32a8)
 
 
 <!--
