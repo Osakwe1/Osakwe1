@@ -2,10 +2,10 @@
 
 I'm Olisa, a Chemical Engineering graduate and aspiring Data Scientist with a passion for creating clever insights, and visualizations 📊. I love solving complex problems and bringing ideas to life through code 💻. With a drive to leverage my coding skills to create meaningful solutions, I am eager to contribute my expertise and enthusiasm to meaningful projects that have a lasting impact 🌱. 
 
+I'm always up for a challenge, so feel free to connect with me on Github to collaborate on a project or offer any info.
 For contact: [Email ✉️](mailto:OOsakwe1@icloud.com).
 
-When I'm not coding, you can find me exploring different cities 🌇, trying out restaurants 🥐, or reading 📚. 
-I'm always up for a good challenge, so feel free to connect with me on Github to collaborate on a project or offer any info.
+
 
 - 🔭 I’m currently working on...
   * [TFL_Stations 🚇](https://github.com/Osakwe1/TFL_Stations) - Analyzing trends in TfL Network ridership from 2007 to 2021.
