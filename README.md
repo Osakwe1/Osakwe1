@@ -1,7 +1,9 @@
+<img align="right" alt="Coding" width="1000" src=https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif>
+
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Osakwe1)
-  <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif>
+
 
 <!--
 **Osakwe1/Osakwe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
