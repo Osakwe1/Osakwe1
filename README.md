@@ -10,7 +10,7 @@ For contact: [Email ✉️](mailto:OOsakwe1@icloud.com).
 
 
 - 🔭 I’m currently working on...
-  * [TFL_Stations 🚇](https://github.com/Osakwe1/TFL_Stations) - Analyzing trends in TfL Network ridership from 2007 to 2021.
+  * [TFL_Stations 🚇](https://github.com/Osakwe1/TFL_Stations) - Analyzing trends in TfL Network ridership from 2007 to 2021. (Almost finished!) 
   * [BechdelMovies 🎞️](https://github.com/Osakwe1/BechdelMovies) - Identifying which movies pass the 'Bechdel' test and what factors make this more likely.
 - 🌱 I’m currently learning... 
   * R
