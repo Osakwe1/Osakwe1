@@ -18,9 +18,8 @@ As of today,
   * [US_Accidents 🚗🇺🇸](https://github.com/Osakwe1/US_Accidents) - Identifying what factors make a car accident more likely and more severe in the US.  
 
 - 🌱 I’m currently learning... 
-  * R 
-  * PyTorch
-  * GIS
+  * [R](https://www.r-project.org/about.html) 
+  * [PyTorch](https://pytorch.org/)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osakwe)](https://github.com/Osakwe1/github-readme-stats) -->
