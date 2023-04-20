@@ -1,8 +1,6 @@
 ### Welcome 🚀
 
-<!-- <h3 align="center">Goal: Analyse and predict future sales of an ecommerce business </h3> -->
-
-<h4 align="left"> My name is Olisa! </h3>
+<h2 align="left"> My name is Olisa! </h2>
 
 I am Chemical Engineering graduate and aspiring Data Scientist with a passion for creating clever insights, and visualizations 📊.   
 I love solving complex problems and bringing ideas to life through code 💻.   
@@ -22,6 +20,7 @@ As of today,
 - 🌱 I’m currently learning...   
   * [R](https://www.r-project.org/about.html) 
   * [PyTorch](https://pytorch.org/)
+  * HTML & CSS
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osakwe)](https://github.com/Osakwe1/github-readme-stats) -->
