@@ -20,7 +20,7 @@ As of today,
 - 🌱 I’m currently learning...   
   * [R](https://www.r-project.org/about.html) 
   * [PyTorch](https://pytorch.org/)
-  * HTML & CSS
+  * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osakwe)](https://github.com/Osakwe1/github-readme-stats) -->
