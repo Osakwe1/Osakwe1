@@ -15,7 +15,6 @@ As of today,
 
 - 🔭 I’m currently working on...
   * [BechdelMovies 🎞️](https://github.com/Osakwe1/BechdelMovies) - Identifying which movies pass the 'Bechdel' test and what factors make this more likely.
-  * [US_Accidents 🚗🇺🇸](https://github.com/Osakwe1/US_Accidents) - Identifying what factors make a car accident more likely and more severe in the US.  
 
 - 🌱 I’m currently learning...   
   * [R](https://www.r-project.org/about.html) 
