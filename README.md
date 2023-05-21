@@ -10,9 +10,6 @@ I'm always up for a challenge, so feel free to connect with me on Github to coll
 For contact: [Email ✉️](mailto:OOsakwe1@icloud.com).
 
 As of today,
-- 🚀 I recently finished...
-  * [TFL_Stations 🚇](https://github.com/Osakwe1/TFL_Stations) - Analyzing trends in TfL Network ridership from 2007 to 2021.
-
 - 🔭 I’m currently working on...
   * [BechdelMovies 🎞️](https://github.com/Osakwe1/BechdelMovies) - Identifying which movies pass the 'Bechdel' test and what factors make this more likely.
 
