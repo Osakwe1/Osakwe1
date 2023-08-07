@@ -1,23 +1,23 @@
 ### Welcome 🚀
 
-<h2 align="left"> My name is Olisa! </h2>
-
-I am Chemical Engineering graduate and aspiring Data Scientist with a passion for creating clever insights, and visualizations 📊.   
-I love solving complex problems and bringing ideas to life through code 💻.   
-With my passion to leverage my coding skills to create solutions, I am eager to contribute my skill and enthusiasm to projects that leave a lasting impact 🌱. 
-
+Recent Engineering graduate and aspiring Data Scientist with a passion for creating clever insights, and web development 🧩.     
 I'm always up for a challenge, so feel free to connect with me on Github to collaborate on a project or offer any info.   
-For contact: [Email ✉️](mailto:OOsakwe1@icloud.com).
 
-As of today,
-- 🔭 I’m currently working on...
-  * [BechdelMovies 🎞️](https://github.com/Osakwe1/BechdelMovies) - Identifying which movies pass the 'Bechdel' test and what factors make this more likely.
+For contact: 
+📱 [LinkedIn](https://www.linkedin.com/in/olisaemekaosakwe/) | 
+📧 [Email](mailto:OOsakwe1@icloud.com) | 
+🌐 [Portfolio](https://www.yourwebsite.com)
 
-- 🌱 I’m currently learning...   
-  * [R](https://www.r-project.org/about.html) 
-  * [PyTorch](https://pytorch.org/)
-  * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss)
+## Tech Toolbox 🛠️
+- 💻 Programming Languages: Python, Javascript
+- 🎨 Frontend Tech: HTML, CSS, Bootstrap, React
+- 🚀 Backend Tech: Java
+- 🛠️ Utilities: Git, VS Code, Google Cloud
+- 🗃️ Databases: SQL, MySQL
 
+#### Check out some of my projects below 🔌 :
+- [Python Projects](https://github.com/Osakwe1/Python-Projects)
+- [FrontEnd Projects](https://github.com/Osakwe1/JS-Projects)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osakwe)](https://github.com/Osakwe1/github-readme-stats) -->
 
@@ -27,20 +27,6 @@ As of today,
 
 <!-- ![](https://komarev.com/ghpvc/?username=Osakwe1&label=VIEWS&style=flat-square&color=5a32a8) -->
 
-<!--
-**Osakwe1/Osakwe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
