@@ -6,7 +6,7 @@ I'm always up for a challenge, so feel free to connect with me on Github to coll
 For contact: 
 📱 [LinkedIn](https://www.linkedin.com/in/olisaemekaosakwe/) | 
 📧 [Email](mailto:OOsakwe1@icloud.com) | 
-🌐 [Portfolio](https://www.yourwebsite.com)
+🌐 [Portfolio](http://datascienceportfol.io/whereisolisa)
 
 ## Tech Toolbox 🛠️
 - 💻 Programming Languages: Python, Javascript
