@@ -1,6 +1,6 @@
 ### Welcome 🚀
 
-Recent Engineering graduate and aspiring Data Scientist with a passion for creating clever insights, and web development 🧩.     
+Data Analyst with a passion for creating clever insights 🧩.     
 I'm always up for a challenge, so feel free to connect with me on Github to collaborate on a project or offer any info.   
 
 For contact: 
@@ -10,15 +10,11 @@ For contact:
 🔍 [WellFound](https://wellfound.com/u/olisaemeka-osakwe)
 
 ## Tech Toolbox 🛠️
-- 💻 Programming Languages: Python, Javascript
-- 🎨 Frontend Tech: HTML, CSS, Bootstrap, React
-- 🚀 Backend Tech: Java
+- 💻 Programming Languages: Python, Javascript, R
 - 🛠️ Utilities: Git, VS Code, Google Cloud
 - 🗃️ Databases: SQL, MySQL
-
-#### Check out some of my projects below 🔌 :
-- [Python Projects](https://github.com/Osakwe1/Python-Projects)
-- [FrontEnd Projects](https://github.com/Osakwe1/JS-Projects)
+<!-- 🎨 Frontend Tech: HTML, CSS, Bootstrap, React
+- 🚀 Backend Tech: Java -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osakwe)](https://github.com/Osakwe1/github-readme-stats) -->
 
