@@ -1,18 +1,16 @@
 ### Welcome 🚀
 
 Data Analyst with a passion for creating clever insights 🧩.     
-I'm always up for a challenge, so feel free to connect with me on Github to collaborate on a project or offer any info.   
 
 For contact: 
 📱 [LinkedIn](https://www.linkedin.com/in/olisaemekaosakwe/) | 
-📧 [Email](mailto:OOsakwe1@icloud.com) | 
-🌐 [Portfolio](http://datascienceportfol.io/whereisolisa) |
-🔍 [WellFound](https://wellfound.com/u/olisaemeka-osakwe)
+📧 [Email](mailto:Olisaemekaosakwe@gmail.com) | 
 
 ## Tech Toolbox 🛠️
-- 💻 Programming Languages: Python, Javascript, R
+- 💻 Programming Languages: Python, R
 - 🛠️ Utilities: Git, VS Code, Google Cloud
 - 🗃️ Databases: SQL, MySQL
+- 📊 Data Analysis & Visualization: Excel, Power BI
 <!-- 🎨 Frontend Tech: HTML, CSS, Bootstrap, React
 - 🚀 Backend Tech: Java -->
 
